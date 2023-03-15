@@ -1,0 +1,78 @@
+{
+  "navBar": {
+    "Home": "Hogar",
+    "About us": "Sobre nosotros",
+    "Our Services": "Nuestros servicios",
+    "Our Products": "Nuestros productos",
+    "Contacts": "Contactos"
+  },
+  "title": {
+    "Your trusted partner ": "Tu socio de confianza ",
+    "in video security": "en video seguridad"
+  },
+  "call": {
+    "Location": "Ubicación",
+    "Call now": "Llama ahora",
+    "Call": "Llamar",
+    "Request a Call": "Solicitar una llamada",
+    "Name": "Nombre",
+    "Phone": "Teléfono"
+  },
+  "test": {
+    "Know the cost of a video surveillance system for YOUR Property.": "Conozca el costo de un sistema de video vigilancia para SU Propiedad.",
+    "Know the cost": "Conoce el costo",
+    "Next": "Próximo",
+    "Back": "Atrás",
+    "Know the Cost": "Conozca el costo",
+    "Location": "Ubicación",
+    "Name": "Nombre",
+    "Phone": "Teléfono",
+    "Enter your contact details to receive the price": "Ingrese sus datos de contacto para recibir el precio",
+    "You have successfully completed the test, a consultant will contact you shortly": "Ha completado con éxito la prueba, un asesor se comunicará con usted en breve"
+  },
+  "aboutUs": {
+    "About us": "Sobre nosotros",
+    "We are a team of technicians authorized to install video surveillance systems. With 6 years of experience in the field of security, complete key installation services for any type of location including houses, villas, businesses, shops, stores, restaurant, orchards, lakes and guesthouses. We use high quality equipment and offer support to help you choose the right system for your needs. They also provide maintenance and repair services for systems installed by us. Our warranty includes both labor and accessories to benefit you and keep you running smoothly. We are kind, honest and responsible, we are always ready to help you. We offer 24/7 support for any questions or issues you may have. Contact us today to discuss your video surveillance needs and get a custom quote.":
+    "Somos un equipo de técnicos autorizados para instalar sistemas de videovigilancia. Con 6 años de experiencia en el campo de la seguridad, servicios completos de instalación de llaves para cualquier tipo de ubicación incluyendo casas, villas, negocios, comercios, tiendas, restaurantes, huertas, lagos y casas de huéspedes. Utilizamos equipos de alta calidad y ofrecemos soporte para ayudarlo a elegir el sistema adecuado para sus necesidades. También brindan servicios de mantenimiento y reparación para los sistemas instalados por nosotros. Nuestra garantía incluye mano de obra y accesorios para beneficiarlo y mantenerlo funcionando sin problemas. Somos amables, honestos y responsables, siempre estamos dispuestos a ayudarte. Ofrecemos soporte 24/7 para cualquier pregunta o problema que pueda tener. Contáctenos hoy para analizar sus necesidades de videovigilancia y obtener un presupuesto personalizado.",
+    "Speed ​​and mobility - Fast installation": "Velocidad y movilidad - Instalación rápida    ",
+    "Rapidity": "Rapidez",
+    "Free Trial": "Prueba gratis",
+    "Risk Free Experience - Free Trial": "Experiencia sin riesgos: prueba gratuita",
+    "Guarantee": "Garantizar",
+    "Extended Warranty - Up to 36 Months Coverage": "Garantía extendida: hasta 36 meses de cobertura"
+  },
+  "statistic": {
+    "Obtained results": "Resultados obtenidos",
+    "Installations Made": "Instalaciones Realizadas",
+    "Customers": "Clientes",
+    "Customer retention rate": "Tasa de retención de clientes",
+    "Success": "Éxito"
+  },
+  "OurServices": {
+    "Our Services": "Nuestros servicios",
+    "We perform video system installations or alarms at any type of location. Houses, villas, businesses, warehouses, shops, restaurants, orchards, lakes, guesthouses, etc. We install everything on a turnkey basis. We work with any type of video surveillance equipment you want, regardless of where you will purchase it. We offer support in choosing the most suitable system for your needs. Guarantee on the work performed and high quality accessories.":
+    "Realizamos instalaciones de sistemas de video o alarmas en cualquier tipo de ubicación. Casas, chalets, negocios, almacenes, tiendas, restaurantes, huertas, lagos, casas de huéspedes, etc. Instalamos todo llave en mano. Trabajamos con cualquier tipo de equipo de videovigilancia que desee, independientemente de dónde lo vaya a adquirir. Ofrecemos apoyo en la elección del sistema más adecuado a sus necesidades. Garantía en el trabajo realizado y accesorios de alta calidad.",
+    "Private Houses": "Casas Particulares",
+    "Residential blocks, parking lots": "Bloques residenciales, estacionamientos",
+    "Hotels and Restaurants": "Hoteles y Restaurantes",
+    "Chains of Stores": "Cadenas de Tiendas",
+    "Refueling Stations": "Estaciones de servicio",
+    "Offices, educational institutions": "Oficinas, instituciones educativas",
+    "Banks, Companies": "Bancos, Empresas",
+    "Medical institutions": "Instituciones médicas"
+  },
+  "ourProducts": {
+    "Our Products": "Nuestros productos",
+    "Add to cart": "Añadir a la cesta"
+  },
+  "No risk - Return products and refund in 14 days": "Sin riesgo - Devolución de productos y reembolso en 14 días",
+  "AuthorizedTechnician": {
+    "Authorized Technician": "Técnico Autorizado"
+  },
+  "footer": {
+    "Email": "Correo electrónico",
+    "Contacts": "Contactos",
+    "Location": "Ubicación",
+    "All rights reserved": "Reservados todos los derechos"
+  }
+}

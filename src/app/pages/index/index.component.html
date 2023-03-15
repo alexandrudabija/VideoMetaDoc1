@@ -1,0 +1,48 @@
+
+
+<div id="index" class="flex flex-col items-center justify-center bg-black " >
+  <div id="home" #scrollContainer></div>
+  <app-navbar class="w-full   z-30 -top-2  min-[871px]:fixed" (scroll)="reicevedValue($event)"></app-navbar>
+
+
+  <app-header   class="w-full flex flex-col justify-center items-center mt-24"></app-header>
+
+  <div class="w-full h-auto flex flex-col items-center justify-center">
+    <app-test class="flex justify-center items-center w-11/12 bg-cover bg-center bg-current mt-10 mb-32"
+      style="background-image: url('./assets/images/test/test.jpg')"> </app-test>
+
+
+
+   <div  id="about" #scrollContainer  class="w-full relative top-60" ></div>
+    <app-aboutUs   class="w-full "></app-aboutUs>
+    <app-gallery class="w-full mt-8 mb-10"></app-gallery>
+    <app-statistics class="w-full mt-5 mb-32"></app-statistics>
+
+
+   <div id="services" class="w-full relative top-60" #scrollContainer></div>
+      <app-ourServices  class="w-full">    </app-ourServices>
+
+  <!--
+      <app-cart class="w-full"></app-cart> -->
+
+
+    <app-products id="products" #scrollContainer class="w-full h-auto mt-10"></app-products>
+
+    <app-picture-section class="w-9/12 mt-20 mb-20   "></app-picture-section>
+
+    <app-gallery2 class="before-footer w-full  mt-32"></app-gallery2>
+
+      <app-location id="googleMaps" class="w-full flex justify-center items-center max-[1170px]:mt-4   mt-20"></app-location>
+
+      <app-request-call class="w-full "></app-request-call>
+    <app-call class="w-full"></app-call>
+    <!-- <app-phone class="w-full"></app-phone> -->
+  </div>
+
+  <app-footer id="contacts" #scrollContainer
+
+    class="w-full h-[404px]  max-[564px]:h-[540px] mt-24 flex flex-col items-center justify-around"></app-footer>
+
+
+
+</div>

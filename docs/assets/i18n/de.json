@@ -1,0 +1,78 @@
+{
+  "navBar": {
+    "Home": "Heim",
+    "About us": "Über uns",
+    "Our Services": "Unsere Dienstleistungen",
+    "Our Products": "Unsere Produkte",
+    "Contacts": "Kontakte"
+  },
+  "title": {
+    "Your trusted partner ": "Ihr zuverlässiger Partner ",
+    "in video security": "in der Videosicherheit"
+  },
+  "call": {
+    "Location": "Standort",
+    "Call now": "Jetzt anrufen",
+    "Call": "Forderung",
+    "Request a Call": "Fordern Sie einen Anruf an",
+    "Name": "Name",
+    "Phone": "Telefon"
+  },
+  "test": {
+    "Know the cost of a video surveillance system for YOUR Property.": "Informieren Sie sich über die Kosten eines Videoüberwachungssystems für IHR Eigentum.",
+    "Know the cost": "Kenne die Kosten",
+    "Next": "Nächste",
+    "Back": "Zurück",
+    "Know the Cost": "Kennen Sie die Kosten",
+    "Location": "Standort",
+    "Name": "Name",
+    "Phone": "Telefon",
+    "Enter your contact details to receive the price": "Geben Sie Ihre Kontaktdaten ein, um den Preis zu erhalten",
+    "You have successfully completed the test, a consultant will contact you shortly": "Sie haben den Test erfolgreich absolviert, ein Berater wird sich in Kürze mit Ihnen in Verbindung setzen"
+  },
+  "aboutUs": {
+    "About us": "Über uns",
+    "We are a team of technicians authorized to install video surveillance systems. With 6 years of experience in the field of security, complete key installation services for any type of location including houses, villas, businesses, shops, stores, restaurant, orchards, lakes and guesthouses. We use high quality equipment and offer support to help you choose the right system for your needs. They also provide maintenance and repair services for systems installed by us. Our warranty includes both labor and accessories to benefit you and keep you running smoothly. We are kind, honest and responsible, we are always ready to help you. We offer 24/7 support for any questions or issues you may have. Contact us today to discuss your video surveillance needs and get a custom quote.":
+    "Wir sind ein Team von Technikern, die zur Installation von Videoüberwachungssystemen autorisiert sind. Mit 6 Jahren Erfahrung im Bereich Sicherheit, komplette Schlüsselinstallationsdienste für jede Art von Standort, einschließlich Häusern, Villen, Unternehmen, Geschäften, Geschäften, Restaurants, Obstgärten, Seen und Pensionen. Wir verwenden hochwertige Geräte und bieten Unterstützung, um Ihnen bei der Auswahl des richtigen Systems für Ihre Bedürfnisse zu helfen. Sie bieten auch Wartungs- und Reparaturdienste für von uns installierte Systeme an. Unsere Garantie umfasst sowohl Arbeitsaufwand als auch Zubehör, damit Sie davon profitieren und einen reibungslosen Betrieb gewährleisten. Wir sind freundlich, ehrlich und verantwortungsbewusst, wir sind immer bereit, Ihnen zu helfen. Wir bieten 24/7-Support für alle Fragen oder Probleme, die Sie möglicherweise haben. Kontaktieren Sie uns noch heute, um Ihre Videoüberwachungsanforderungen zu besprechen und ein individuelles Angebot zu erhalten. ",
+    "Speed ​​and mobility - Fast installation": "Geschwindigkeit und Mobilität - Schnelle Installation",
+    "Rapidity": "Schnelligkeit",
+    "Free Trial": "Kostenlose Testphase",
+    "Risk Free Experience - Free Trial": "Risikofreie Erfahrung - Kostenlose Testversion",
+    "Guarantee": "Garantie",
+    "Extended Warranty - Up to 36 Months Coverage": "Erweiterte Garantie - Bis zu 36 Monate Abdeckung"
+  },
+  "statistic": {
+    "Obtained results": "Erhaltene Ergebnisse",
+    "Installations Made": "Installationen gemacht",
+    "Customers": "Kunden",
+    "Customer retention rate": "Kundenbindungsrate",
+    "Success": "Erfolg"
+  },
+  "OurServices": {
+    "Our Services": "Unsere Dienstleistungen",
+    "We perform video system installations or alarms at any type of location. Houses, villas, businesses, warehouses, shops, restaurants, orchards, lakes, guesthouses, etc. We install everything on a turnkey basis. We work with any type of video surveillance equipment you want, regardless of where you will purchase it. We offer support in choosing the most suitable system for your needs. Guarantee on the work performed and high quality accessories.":
+    "Wir führen Videosysteminstallationen oder Alarme an beliebigen Orten durch. Häuser, Villen, Geschäfte, Lager, Geschäfte, Restaurants, Obstgärten, Seen, Pensionen usw. Wir installieren alles schlüsselfertig. Wir arbeiten mit jeder Art von Videoüberwachungsausrüstung, die Sie möchten, unabhängig davon, wo Sie sie kaufen. Wir unterstützen Sie bei der Auswahl des für Ihre Bedürfnisse am besten geeigneten Systems. Garantie auf die geleistete Arbeit und hochwertiges Zubehör.",
+    "Private Houses": "Privathäuser",
+    "Residential blocks, parking lots": "Wohnblöcke, Parkplätze",
+    "Hotels and Restaurants": "Hotels und Restaurants",
+    "Chains of Stores": "Ladenketten",
+    "Refueling Stations": "Tankstellen",
+    "Offices, educational institutions": "Büros, Bildungseinrichtungen",
+    "Banks, Companies": "Banken, Unternehmen",
+    "Medical institutions": "Medizinische Einrichtungen"
+  },
+  "ourProducts": {
+    "Our Products": "Unsere Produkte",
+    "Add to cart": "In den Warenkorb legen"
+  },
+  "No risk - Return products and refund in 14 days": "Kein Risiko - Produkte zurückgeben und innerhalb von 14 Tagen erstatten",
+  "AuthorizedTechnician": {
+    "Authorized Technician": "Autorisierter Techniker"
+  },
+  "footer": {
+    "Email": "Email",
+    "Contacts": "Kontakte",
+    "Location": "Standort",
+    "All rights reserved": "Alle Rechte vorbehalten"
+  }
+}

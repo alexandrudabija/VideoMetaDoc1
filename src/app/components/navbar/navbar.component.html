@@ -1,0 +1,67 @@
+<div class="bg-black/90 w-full h-auto  text-white flex justify-evenly items-center
+ font-serif" >
+
+
+
+
+    <div class="navButtons flex justify-evenly items-center w-full			text-lg	flex-wrap ">
+      <div class="brandTitle  	text-4xl h-20  flex justify-center items-center m-2 ">
+
+        <span class="animate-pulse	 font-bold ">Video<span class="text-orange-600">MetaDoc</span></span>
+    </div>
+
+      <div class="w-auto h-20  flex justify-center items-center m-2 ">
+    <button class=" ease-in-out  hover:bg-orange-600 hover:text-black		duration-300 hover:p-3  " (click)="scrollTo('home')">{{'navBar.Home' |translate}}</button>
+
+      </div>
+
+      <div class="w-auto h-20  flex justify-center items-center m-2">
+
+    <button class=" ease-in-out  hover:bg-orange-600	 hover:text-black	duration-300 hover:p-3 " (click)="scrollTo('about')">{{ 'navBar.About us' | translate }}</button>
+  </div>
+
+
+  <div class="w-auto h-20  flex justify-center items-center m-2">
+
+    <button class=" ease-in-out  hover:bg-orange-600 hover:text-black	 duration-300	 hover:p-3 " (click)="scrollTo('services')">{{'navBar.Our Services' |translate}}</button>
+
+  </div>
+  <div class="w-auto h-20  flex justify-center items-center m-2">
+    <button class=" ease-in-out  hover:bg-orange-600 hover:text-black	duration-300	 hover:p-3 " (click)="scrollTo('products')" >{{'navBar.Our Products'|translate}}</button>
+  </div>
+
+
+
+  <div class="w-auto h-20  flex justify-center items-center m-2">
+    <button class=" ease-in-out  hover:bg-orange-600	duration-300 hover:text-black	 hover:p-3 " (click)="scrollTo('contacts')"> {{'navBar.Contacts'|translate}}</button>
+  </div>
+
+  <div class="relative w-auto h-auto ">
+
+  <select  class=" text-center bg-black hover:text-white cursor-pointer  font-serif  m-2 capitalize  "  [(ngModel)]="selectedLanguage" (change)="switchLanguage()">
+<option *ngFor="let item of leanguageArray" class="text-center capitalize"  [value]="item.leanguage"  >{{item.leanguage === 'zh' ? 'Chi': item.leanguage  }}</option>
+  </select>
+  <div class="absolute inset-y-0 right-0 flex items-center px-2 pointer-events-none">
+    <svg class="w-4 h-4 fill-current" viewBox="0 0 20 20">
+      <path d="M10 12.585l-4.293-4.293a1 1 0 0 1 1.414-1.414L10 9.757l3.879-3.879a1 1 0 0 1 1.414 1.414L10 12.585z"/>
+    </svg>
+  </div>
+</div>
+<!--
+  <div class="w-auto h-20  flex justify-center items-center m-2">
+    <button class=" ease-in-out  hover:bg-orange-600	duration-300 hover:text-black	 hover:p-3 ">Inregistrare </button>
+  </div>
+
+  <div class="w-auto h-20  flex justify-center items-center m-2">
+
+    <button  class=" ease-in-out  hover:bg-orange-600		hover:text-black duration-300 hover:p-3 ">Autentificare </button>
+  </div>
+
+  <ng-container *ngIf="false" class="w-auto h-20  flex justify-center items-center m-2">
+    <button  class=" ease-in-out  hover:bg-orange-600	hover:text-black 	duration-300 hover:p-3 " >Iesire</button>
+  </ng-container> -->
+
+    </div>
+
+
+</div>

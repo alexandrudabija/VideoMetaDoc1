@@ -1,0 +1,77 @@
+{
+  "navBar": {
+    "Home": "بيت",
+    "About us": "معلومات عنا",
+    "Our Services": "خدماتنا",
+    "Our Products": "منتجاتنا",
+    "Contacts": "جهات الاتصال"
+  },
+  "title": {
+    "Your trusted partner ": "شريكك الموثوق به ",
+    "in video security": "في أمن الفيديو"
+  },
+  "call": {
+    "Location": "موقع",
+    "Call now": "اتصل الان",
+    "Call": "يتصل",
+    "Request a Call": "طلب مكالمة",
+    "Name": "اسم",
+    "Phone": "هاتف"
+  },
+  "test": {
+    "Know the cost of a video surveillance system for YOUR Property.": "تعرف على تكلفة نظام المراقبة بالفيديو لممتلكاتك.",
+    "Know the cost": "تعرف على التكلفة",
+    "Next": "التالي",
+    "Back": "خلف",
+    "Know the Cost": "تعرف على التكلفة",
+    "Location": "موقع",
+    "Name": "اسم",
+    "Phone": "هاتف",
+    "Enter your contact details to receive the price": "أدخل تفاصيل الاتصال الخاصة بك للحصول على السعر",
+    "You have successfully completed the test, a consultant will contact you shortly": "لقد أكملت الاختبار بنجاح ، سيتصل بك أحد الاستشاريين قريبًا"
+  },
+  "aboutUs": {
+    "About us": "معلومات عنا",
+    "We are a team of technicians authorized to install video surveillance systems. With 6 years of experience in the field of security, complete key installation services for any type of location including houses, villas, businesses, shops, stores, restaurant, orchards, lakes and guesthouses. We use high quality equipment and offer support to help you choose the right system for your needs. They also provide maintenance and repair services for systems installed by us. Our warranty includes both labor and accessories to benefit you and keep you running smoothly. We are kind, honest and responsible, we are always ready to help you. We offer 24/7 support for any questions or issues you may have. Contact us today to discuss your video surveillance needs and get a custom quote.": "نحن فريق من الفنيين المصرح لهم بتركيب أنظمة المراقبة بالفيديو. مع 6 سنوات من الخبرة في مجال الأمن ، خدمات التثبيت الرئيسية الكاملة لأي نوع من المواقع بما في ذلك المنازل والفيلات والشركات والمحلات التجارية والمتاجر والمطاعم والبساتين والبحيرات ودور الضيافة. نستخدم معدات عالية الجودة ونقدم الدعم لمساعدتك في اختيار النظام المناسب لاحتياجاتك. كما يقدمون خدمات الصيانة والإصلاح للأنظمة التي نقوم بتركيبها. يشمل ضماننا كلاً من العمالة والملحقات لتفيدك وتجعلك تعمل بسلاسة. نحن طيبون وصادقون ومسؤولون ، ونحن مستعدون دائمًا لمساعدتك. نحن نقدم دعمًا على مدار الساعة طوال أيام الأسبوع لأي أسئلة أو مشكلات قد تكون لديك. اتصل بنا اليوم لمناقشة احتياجاتك في مجال المراقبة بالفيديو والحصول على عرض أسعار مخصص.",
+    "Speed ​​and mobility - Fast installation": "سرعة \"الحركية - التثبيت السريع\"",
+    "Rapidity": "سرعة",
+    "Free Trial": "تجربة مجانية",
+    "Risk Free Experience - Free Trial": "تجربة خالية من المخاطر - نسخة تجريبية مجانية",
+    "Guarantee": "يضمن",
+    "Extended Warranty - Up to 36 Months Coverage": "ضمان ممتد - تغطية تصل إلى 36 شهرًا"
+  },
+  "statistic": {
+    "Obtained results": "النتائج التي تم الحصول عليها",
+    "Installations Made": "المنشآت مصنوعة",
+    "Customers": "عملاء",
+    "Customer retention rate": "معدل الاحتفاظ بالعملاء",
+    "Success": "نجاح"
+  },
+  "OurServices": {
+    "Our Services": "خدماتنا",
+    "We perform video system installations or alarms at any type of location. Houses, villas, businesses, warehouses, shops, restaurants, orchards, lakes, guesthouses, etc. We install everything on a turnkey basis. We work with any type of video surveillance equipment you want, regardless of where you will purchase it. We offer support in choosing the most suitable system for your needs. Guarantee on the work performed and high quality accessories.":
+    "نقوم بتثبيت نظام الفيديو أو أجهزة الإنذار في أي نوع من المواقع. المنازل والفيلات والشركات والمستودعات والمحلات التجارية والمطاعم والبساتين والبحيرات ودور الضيافة وما إلى ذلك. نقوم بتركيب كل شيء على أساس تسليم المفتاح. نحن نعمل مع أي نوع من معدات المراقبة بالفيديو التي تريدها ، بغض النظر عن مكان شرائها. نحن نقدم الدعم في اختيار النظام الأنسب لاحتياجاتك. ضمان على العمل المنجز و اكسسوارات عالية الجودة.",
+    "Private Houses": "منازل خاصة",
+    "Residential blocks, parking lots": "الكتل السكنية ومواقف السيارات",
+    "Hotels and Restaurants": "الفنادق والمطاعم",
+    "Chains of Stores": "سلاسل المحلات",
+    "Refueling Stations": "محطات التزود بالوقود",
+    "Offices, educational institutions": "المكاتب والمؤسسات التعليمية",
+    "Banks, Companies": "البنوك والشركات",
+    "Medical institutions": "المؤسسات الطبية"
+  },
+  "ourProducts": {
+    "Our Products": "منتجاتنا",
+    "Add to cart": "أضف إلى السلة"
+  },
+  "No risk - Return products and refund in 14 days": "بدون مخاطرة - قم بإرجاع المنتجات واسترداد الأموال خلال 14 يومًا",
+  "AuthorizedTechnician": {
+    "Authorized Technician": "فني معتمد"
+  },
+  "footer": {
+    "Email": "بريد إلكتروني",
+    "Contacts": "جهات الاتصال",
+    "Location": "موقع",
+    "All rights reserved": "كل الحقوق محفوظة"
+  }
+}

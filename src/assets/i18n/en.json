@@ -1,0 +1,99 @@
+{
+
+  "navBar": {   "Home": "Home",
+      "About us": "About us",
+      "Our Services":"Our Services",
+     "Our Products": "Our Products",
+      "Contacts": "Contacts"},
+
+  "title":{
+    "Your trusted partner ":"Your trusted partner ",
+  "in video security": "in video security"
+  }
+
+  ,
+  "call":{
+    "Location":"Location",
+    "Call now":"Call now"
+
+  ,
+  "Call":"Call"
+  ,
+  "Request a Call":"Request a Call",
+  "Name":"Name",
+  "Phone":"Phone"
+
+  }
+  ,
+
+
+  "test":{
+
+  "Know the cost of a video surveillance system for YOUR Property.":"Know the cost of a video surveillance system for YOUR Property.",
+  "Know the cost":"Know the cost"
+  ,
+  "Next":"Next",
+  "Back":"Back",
+  "Know the Cost":"Know the Cost",
+  "Location":"Location",
+  "Name":"Name",
+  "Phone":"Phone",
+  "Enter your contact details to receive the price":"Enter your contact details to receive the price",
+  "You have successfully completed the test, a consultant will contact you shortly":"You have successfully completed the test, a consultant will contact you shortly"
+  },
+
+  "aboutUs":{
+    "About us": "About us",
+    "We are a team of technicians authorized to install video surveillance systems. With 6 years of experience in the field of security, complete key installation services for any type of location including houses, villas, businesses, shops, stores, restaurant, orchards, lakes and guesthouses. We use high quality equipment and offer support to help you choose the right system for your needs. They also provide maintenance and repair services for systems installed by us. Our warranty includes both labor and accessories to benefit you and keep you running smoothly. We are kind, honest and responsible, we are always ready to help you. We offer 24/7 support for any questions or issues you may have. Contact us today to discuss your video surveillance needs and get a custom quote.":
+    "We are a team of technicians authorized to install video surveillance systems. With 6 years of experience in the field of security, complete key installation services for any type of location including houses, villas, businesses, shops, stores, restaurant, orchards, lakes and guesthouses. We use high quality equipment and offer support to help you choose the right system for your needs. They also provide maintenance and repair services for systems installed by us. Our warranty includes both labor and accessories to benefit you and keep you running smoothly. We are kind, honest and responsible, we are always ready to help you. We offer 24/7 support for any questions or issues you may have. Contact us today to discuss your video surveillance needs and get a custom quote."   ,"Speed ​​and mobility - Fast installation":"Rapiditate și mobilitate - Instalare rapidă"
+   ,"Rapidity":"Rapidity",
+   "Free Trial":"Free Trial",
+   "Risk Free Experience - Free Trial":"Risk Free Experience - Free Trial"
+   ,"Guarantee":"Guarantee",
+   "Extended Warranty - Up to 36 Months Coverage":"Extended Warranty - Up to 36 Months Coverage"},
+
+
+   "statistic":{
+   "Obtained results":"Obtained results",
+   "Installations Made":"Installations Made",
+   "Customers":"Customers",
+   "Customer retention rate":"Customer retention rate",
+   "Success":"Success"
+   }
+
+  ,
+  "OurServices":
+  {
+    "Our Services":"Our Services",
+    "We perform video system installations or alarms at any type of location. Houses, villas, businesses, warehouses, shops, restaurants, orchards, lakes, guesthouses, etc. We install everything on a turnkey basis. We work with any type of video surveillance equipment you want, regardless of where you will purchase it. We offer support in choosing the most suitable system for your needs. Guarantee on the work performed and high quality accessories.":
+    "We perform video system installations or alarms at any type of location. Houses, villas, businesses, warehouses, shops, restaurants, orchards, lakes, guesthouses, etc. We install everything on a turnkey basis. We work with any type of video surveillance equipment you want, regardless of where you will purchase it. We offer support in choosing the most suitable system for your needs. Guarantee on the work performed and high quality accessories.",
+    "Private Houses":"Private Houses",
+    "Residential blocks, parking lots":"Residential blocks, parking lots",
+    "Hotels and Restaurants":"Hotels and Restaurants",
+    "Chains of Stores":"Chains of Stores",
+    "Refueling Stations":"Refueling Stations",
+    "Offices, educational institutions":"Offices, educational institutions",
+    "Banks, Companies":"Banks, Companies",
+    "Medical institutions":"Medical institutions"
+    }
+  ,
+
+  "ourProducts":{
+    "Our Products":"Our Products",
+  "Add to cart":"Add to cart"
+
+  }
+  ,
+  "No risk - Return products and refund in 14 days":"No risk - Return products and refund in 14 days",
+
+  "AuthorizedTechnician" : {"Authorized Technician":"Authorized Technician"}
+  ,
+  "footer" : {
+    "Email":"Email",
+    "Contacts":"Contacts",
+  "Location":"Location" ,
+  "All rights reserved" : "All rights reserved"
+  }
+,
+  "1 item added to cart.":"1 item added to cart."
+  }

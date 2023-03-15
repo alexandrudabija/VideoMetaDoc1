@@ -1,0 +1,78 @@
+{
+  "navBar": {
+    "Home": "додому",
+    "About us": "Про нас",
+    "Our Services": "Наші Послуги",
+    "Our Products": "Наші продукти",
+    "Contacts": "Контакти"
+  },
+  "title": {
+    "Your trusted partner ": "Ваш надійний партнер ",
+    "in video security": "у відеобезпеці"
+  },
+  "call": {
+    "Location": "Місцезнаходження",
+    "Call now": "Подзвони зараз",
+    "Call": "Телефонуйте",
+    "Request a Call": "Замовте дзвінок",
+    "Name": "Ім'я",
+    "Phone": "Телефон"
+  },
+  "test": {
+    "Know the cost of a video surveillance system for YOUR Property.": "Дізнайтеся вартість системи відеоспостереження для ВАШОЇ нерухомості.",
+    "Know the cost": "Дізнайтеся вартість",
+    "Next": "Далі",
+    "Back": "Назад",
+    "Know the Cost": "Знайте вартість",
+    "Location": "Місцезнаходження",
+    "Name": "Ім'я",
+    "Phone": "Телефон",
+    "Enter your contact details to receive the price": "Введіть свої контактні дані для отримання ціни",
+    "You have successfully completed the test, a consultant will contact you shortly": "Ви успішно пройшли тестування, найближчим часом з вами зв'яжеться консультант"
+  },
+  "aboutUs": {
+    "About us": "Про нас",
+    "We are a team of technicians authorized to install video surveillance systems. With 6 years of experience in the field of security, complete key installation services for any type of location including houses, villas, businesses, shops, stores, restaurant, orchards, lakes and guesthouses. We use high quality equipment and offer support to help you choose the right system for your needs. They also provide maintenance and repair services for systems installed by us. Our warranty includes both labor and accessories to benefit you and keep you running smoothly. We are kind, honest and responsible, we are always ready to help you. We offer 24/7 support for any questions or issues you may have. Contact us today to discuss your video surveillance needs and get a custom quote.":
+     "Ми команда техніків, уповноважена встановити системи відеоспостереження. Завдяки 6-річному досвіду роботи у сфері безпеки ми надаємо комплексні послуги зі встановлення ключів для будь-яких типів місць, включаючи будинки, вілли, підприємства, магазини, магазини, ресторани, фруктові сади, озера та гостьові будинки. Ми використовуємо високоякісне обладнання та пропонуємо підтримку, щоб допомогти вам вибрати правильну систему для ваших потреб. Вони також надають послуги з обслуговування та ремонту встановлених нами систем. Наша гарантія включає як роботу, так і аксесуари, щоб принести вам користь і забезпечити безперебійну роботу. Ми добрі, чесні та відповідальні, ми завжди готові вам допомогти. Ми пропонуємо підтримку 24/7 для вирішення будь-яких питань або проблем, які у вас можуть виникнути. Зв’яжіться з нами сьогодні, щоб обговорити ваші потреби щодо відеоспостереження та отримати індивідуальну пропозицію.",
+    "Speed ​​and mobility - Fast installation": "Швидкість і мобільність - Швидкий монтаж",
+    "Rapidity": "Швидкість",
+    "Free Trial": "Безкоштовне випробування",
+    "Risk Free Experience - Free Trial": "Досвід без ризику - безкоштовна пробна версія",
+    "Guarantee": "Гарантія",
+    "Extended Warranty - Up to 36 Months Coverage": "Розширена гарантія - до 36 місяців"
+  },
+  "statistic": {
+    "Obtained results": "Отримані результати",
+    "Installations Made": "Зроблені установки",
+    "Customers": "Клієнти",
+    "Customer retention rate": "Рівень утримання клієнтів",
+    "Success": "Успіх"
+  },
+  "OurServices": {
+    "Our Services": "Наші Послуги",
+    "We perform video system installations or alarms at any type of location. Houses, villas, businesses, warehouses, shops, restaurants, orchards, lakes, guesthouses, etc. We install everything on a turnkey basis. We work with any type of video surveillance equipment you want, regardless of where you will purchase it. We offer support in choosing the most suitable system for your needs. Guarantee on the work performed and high quality accessories.":
+     "Виконуємо монтаж відеосистем або сигналізації в будь-якому місці. Будинки, дачі, підприємства, склади, магазини, ресторани, сади, озера, гестхаузи і т.д. Все монтуємо під ключ. Ми працюємо з будь-яким типом обладнання для відеоспостереження, яке ви бажаєте, незалежно від того, де ви його купуєте. Ми пропонуємо підтримку у виборі системи, яка найбільше відповідає вашим потребам. Гарантія на виконану роботу та високу якість фурнітури».",
+    "Private Houses": "Приватні Будинки",
+    "Residential blocks, parking lots": "Житлові квартали, автостоянки",
+    "Hotels and Restaurants": "Готелі та ресторани",
+    "Chains of Stores": "Мережі магазинів",
+    "Refueling Stations": "Заправні станції",
+    "Offices, educational institutions": "Офіси, навчальні заклади",
+    "Banks, Companies": "Банки, Компанії",
+    "Medical institutions": "Медичні установи"
+  },
+  "ourProducts": {
+    "Our Products": "Наші продукти",
+    "Add to cart": "Додати в кошик"
+  },
+  "No risk - Return products and refund in 14 days": "Жодного ризику - поверніть продукти та відшкодуйте кошти протягом 14 днів",
+  "AuthorizedTechnician": {
+    "Authorized Technician": "Авторизований технік"
+  },
+  "footer": {
+    "Email": "Електронна пошта",
+    "Contacts": "Контакти",
+    "Location": "Місцезнаходження",
+    "All rights reserved": "Всі права захищені"
+  }
+}
